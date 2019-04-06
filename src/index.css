@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900");
+
+/* Container holding the image and the text */
+Col {
+  margin: 0;
+  padding: 0;
+}
+
+Row {
+  margin: 0;
+  padding: 0;
+}
+
+.logo{
+  width: 200px; 
+}
